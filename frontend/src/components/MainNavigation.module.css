@@ -1,0 +1,39 @@
+.nav{
+    background-color: antiquewhite;
+    margin:0rem 0 0 0rem;
+    display: flex;
+
+}
+
+
+.nav h2{
+    margin: 1rem 0 0 5rem;
+    font-size: 32px;
+
+}
+.nav h2 sup{
+    font-size: 16px;
+
+}
+
+.nav ul{
+    display: flex;
+    margin:0 0 0 40rem;
+}
+.nav ul li {
+    margin:1.2rem 0 0 5rem;
+    list-style-type: none;
+
+}
+
+.nav ul li a{
+    text-decoration: none;  
+    font-size: 24px;
+
+
+}
+
+.nav ul li a:hover, a:active{
+    text-decoration: underline;
+    text-decoration-thickness:0.2rem ;
+}

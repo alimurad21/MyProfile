@@ -1,0 +1,40 @@
+.content{
+    display: flex;
+}
+
+
+.introduction{
+    margin:10rem 0 0 5rem;
+    width:60%;
+
+}
+
+.introduction h2{
+    font-size: 60px;
+    /* font-weight: bold; */
+}
+
+.introduction p{
+    font-size: 24px;
+}
+
+.profile{
+    margin:5rem 0 0 0;
+}
+
+.profile img{
+    width: 300px;
+    border-radius: 50%;
+}
+
+
+.contact ul{
+    margin: 1rem 0 0 0rem;
+    display: flex;
+
+}
+
+.contact ul li {
+    margin:0 4rem 0 0rem;
+    list-style-type: none;
+}
