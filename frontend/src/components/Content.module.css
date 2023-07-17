@@ -1,11 +1,14 @@
 .content{
     display: flex;
+    background-color: rgb(27, 32, 37);
+    height:700px;
 }
 
 
 .introduction{
     margin:10rem 0 0 5rem;
     width:60%;
+    color:rgb(124, 169, 187)
 
 }
 

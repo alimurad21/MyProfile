@@ -4,12 +4,12 @@ import classes from "./MainNavigation.module.css";
 const MainNavigation = () => {
   return (
 
-      <div className={classes.nav}>
-        <h2>
+      <div className={classes.navbar}>
+        <h2 className={classes.logo}>
           AliMurad<sup>dev</sup>
         </h2>
 
-        <ul>
+        <ul className={classes.nav}>
           <li>
             <Link to="/">Home</Link>
           </li>

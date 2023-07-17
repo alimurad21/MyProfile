@@ -1,0 +1,34 @@
+.services{
+    background-color: rgb(49, 51, 56);
+    color:rgb(145, 183, 192)
+}
+
+.heading{
+    margin:0rem 0 0 42rem;
+    padding:2rem 0 0 0;
+    font-size:40px;
+}
+.card{
+    background-color: bisque;
+    border: 2px solid black;
+    border-radius: 2%;
+    margin:2rem 0 0 28rem;
+    width:40rem;
+}
+
+.card h2{
+    margin:1rem 0 0 14rem;
+}
+
+/* .card ul{
+
+} */
+
+.card ul li {
+    list-style-type:none;
+    margin:1rem 0 1rem 1rem;
+}
+
+.card ul li img{
+    width:1rem;
+}

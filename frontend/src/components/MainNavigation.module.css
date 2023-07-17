@@ -1,39 +1,43 @@
-.nav{
-    background-color: antiquewhite;
+.navbar{
+    /* background-color: antiquewhite; */
+    background-color: rgb(19, 23, 27);
+
     margin:0rem 0 0 0rem;
     display: flex;
 
 }
 
 
-.nav h2{
+.logo{
     margin: 1rem 0 0 5rem;
     font-size: 32px;
+    color:rgb(180, 178, 143)
 
 }
-.nav h2 sup{
+.loog sup{
     font-size: 16px;
 
 }
 
-.nav ul{
+.nav {
     display: flex;
     margin:0 0 0 40rem;
 }
-.nav ul li {
+.nav  li {
     margin:1.2rem 0 0 5rem;
     list-style-type: none;
-
+    
 }
 
-.nav ul li a{
+.nav li a{
     text-decoration: none;  
     font-size: 24px;
+    color:whitesmoke
 
 
 }
 
-.nav ul li a:hover, a:active{
+.nav li a:hover, a:active{
     text-decoration: underline;
     text-decoration-thickness:0.2rem ;
 }
